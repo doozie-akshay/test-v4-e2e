@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "project": {
+    "name": "test-v4-e2e",
+    "org": "doozie-akshay",
+    "tech_stack": "Laravel + PostgreSQL",
+    "repo_url": "https://github.com/doozie-akshay/test-v4-e2e",
+    "base_branch": "dev",
+    "target_branch": "main",
+    "created_at": "2026-04-19T20:32:37.444130"
+  },
+  "plan": {
+    "summary": "Test v4 orchestrator with simple tasks",
+    "constraints": [
+      "Max 10 tasks",
+      "Tech stack: Laravel + PostgreSQL",
+      "Modular architecture",
+      "Sequential execution"
+    ],
+    "validation": {
+      "passed": true,
+      "task_count": 0,
+      "warnings": []
+    },
+    "tasks": []
+  },
+  "execution": {
+    "status": "pending",
+    "current_task": null,
+    "completed_tasks": [],
+    "failed_tasks": [],
+    "pending_tasks": []
+  },
+  "created_at": "2026-04-19T20:32:37.444147",
+  "updated_at": "2026-04-19T20:32:37.444149"
+}
